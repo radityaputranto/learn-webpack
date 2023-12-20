@@ -6,5 +6,9 @@ Make sure to install the dependencies:
 
 ```bash
 # npm
-run via live server VS Code extension
+
+npm install webpack webpack-cli --save-dev
+npm run build
+
+
 ```
