@@ -22,4 +22,10 @@ npm install bootstrap --save-dev
 
 #support for older brwoser not support ES6 module
 npm install -D babel-loader @babel/core @babel/preset-env
+
+#automatic genereate index.html from webpack using plugins
+npm install --save-dev html-webpack-plugin
+
+#merge webpack config
+npm install webpack-merge --save-dev
 ```
