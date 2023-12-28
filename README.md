@@ -28,4 +28,13 @@ npm install --save-dev html-webpack-plugin
 
 #merge webpack config
 npm install webpack-merge --save-dev
+
+#manage assets
+npm install --save-dev mini-css-extract-plugin
+
+#webpack web server
+npm install --save-dev webpack-dev-server
+
+#html loader
+npm install --save-dev html-loader
 ```
