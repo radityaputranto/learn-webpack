@@ -1,0 +1,9 @@
+$card_bg_color: rgb(59, 42, 167);
+$primary: lightblue;
+$danger: salmon;
+
+@import "bootstrap/scss/bootstrap";
+
+.card {
+    background-color: $card_bg_color;
+}
