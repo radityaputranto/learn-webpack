@@ -9,6 +9,10 @@ Make sure to install the dependencies:
 npm install webpack webpack-cli --save-dev
 npm run build
 
+#developement
+npm run dev
+npm run serve
+
 #watch webpack
 npm run watch
 ```
@@ -37,4 +41,7 @@ npm install --save-dev webpack-dev-server
 
 #html loader
 npm install --save-dev html-loader
+
+#js utilitties
+npm install --save lodash
 ```
