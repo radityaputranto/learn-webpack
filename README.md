@@ -44,4 +44,13 @@ npm install --save-dev html-loader
 
 #js utilitties
 npm install --save lodash
+
+#css minimizer
+npm install css-minimizer-webpack-plugin --save-dev
+
+#purge = for delete unused classname from bootstrap
+npm i purgecss-webpack-plugin -D
+
+#compress image
+npm install image-minimizer-webpack-plugin @squoosh/lib --save-dev
 ```
