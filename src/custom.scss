@@ -1,0 +1,14 @@
+$card_bg_color: rgb(211, 204, 255);
+$primary: lightblue;
+$danger: salmon;
+
+@import "bootstrap/scss/bootstrap";
+
+.card {
+    background-color: $card_bg_color;
+}
+.logo-img {
+    width: 150px;
+    display: block;
+    margin: 30px auto;
+}
